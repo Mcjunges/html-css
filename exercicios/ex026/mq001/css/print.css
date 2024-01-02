@@ -22,5 +22,5 @@ article {
 }
 
 article::after {
-    content: Esse artigo foi empresso hoje.
+    content: 'Esse artigo foi empresso hoje.';
 }
